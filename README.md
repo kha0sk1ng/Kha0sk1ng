@@ -1,15 +1,10 @@
-<!--
-  README for GitHub profile: Kha0sK1ng
-  Style: Dark cyberpunk + clean layout
-  Copy this into the repository named: Kha0sK1ng
--->
 
 <div align="center">
 
 # 👑 Kha0sK1ng
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?size=26&center=true&vCenter=true&width=700&height=50&lines=Software+Developer.;Rust+Enthusiast.;Crafting+code+with+precision+and+chaos." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?size=26&center=true&vCenter=true&width=700&height=50&lines=Software+Developer.;Rust+Enthusiast.;Crafting+code+with+precision+and+chaos.;Kha0sK1ng....." alt="typing" />
 
 <!-- Buttons / Links -->
 <p>
@@ -23,13 +18,6 @@
 </p>
 
 </div>
-
----
-
-## 🔭 Featured Projects
-- 🦀 [rust-esp32-lab](https://github.com/Kha0sK1ng/rust-esp32-lab) — embedded Rust experiments on ESP32.  
-- 🎮 [game-sense-lua-utils](https://github.com/Kha0sK1ng/game-sense-lua-utils) — Lua utilities for scripting and resolvers.  
-- ⚙️ [auto-train-ai](https://github.com/Kha0sK1ng/auto-train-ai) — AI-assisted resolver & automation engine.
 
 ---
 
@@ -62,7 +50,7 @@
 ---
 
 ## 🎯 Current Goals
-- Master `no_std` Rust and embedded development.  
+- Master Rust and embedded development.  
 - Build two production-ready projects for my portfolio.  
 - Improve project documentation and add visuals/screenshots.
 
@@ -81,14 +69,6 @@
 
 ## 💬 Quote
 > “Code is art, and I’m the chaos behind it.”
-
----
-
-## 🧩 Quick Tips
-- Pin your top 3–4 repositories for visibility.  
-- Add short README files with examples & setup steps for each project.  
-- Use clear English commit messages — it shows professionalism.  
-- Include small screenshots or GIFs to make your projects stand out visually.
 
 ---
 
