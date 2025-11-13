@@ -37,8 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kha0sK1ng&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
-> Stats update automatically — no setup needed.
-
 ---
 
 ## ⚙️ What I Do
