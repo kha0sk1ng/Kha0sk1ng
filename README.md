@@ -1,4 +1,4 @@
-# Ayxan
+# Kha0sK1ng
 
 CS student based in Baku, Azerbaijan. Working toward a Computer Science degree at a university in the US or Canada.
 
