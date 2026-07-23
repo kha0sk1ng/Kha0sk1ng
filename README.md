@@ -19,5 +19,5 @@ Discord: @kha0sk1ng
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=kha0sk1ng&show_icons=true&theme=radical)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kha0sk1ng&layout=compact&theme=radical)
+![stats](https://github-stats-extended.vercel.app/api?username=kha0sk1ng&show_icons=true&theme=radical)
+![languages](https://github-stats-extended.vercel.app/api/top-langs/?username=kha0sk1ng&layout=compact&theme=radical)
