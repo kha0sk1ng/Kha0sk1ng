@@ -6,7 +6,7 @@ Mostly write Rust, with some C++ and Node.js. Longtime interest in low-level sys
 
 ## Languages
 
-JavaScript(jr) · Python(jr) · Rust(jr) · C++(jr+) · Java(jr+) · Bash(mid) · Lua(mid)
+JavaScript(jr) · Python(jr) · Rust(jr) · Java(jr+) · C++(jr++) · Bash(mid) · Lua(mid)
 
 ## Tools
 
